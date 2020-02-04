@@ -14,7 +14,7 @@ Team. 화공
 
 - [루탑봇 2018 (현재 레포지토리)](https://github.com/develable/Rutap-Bot-2018)
 - [루탑봇 2019](https://github.com/develable/Rutap-Bot-2019)
-- **Coming Soon!**
+- [루탑봇 2020](https://github.com/develable/Rutap-Bot-2020)
 
 # Contact
 
