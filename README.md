@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/develable/Rutap-Bot-2018?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2018) [![GitHub issues](https://img.shields.io/github/issues/develable/Rutap-Bot-2018?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2018/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/develable/Rutap-Bot-2018?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2018/pulls) 
+
 # About Us
 
 Team. 화공
